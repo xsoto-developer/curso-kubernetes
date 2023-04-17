@@ -1,0 +1,10 @@
+.idea/
+msvc-cursos/.mvn/
+msvc-cursos/target/
+msvc-cursos/HELP.md
+msvc-cursos/mvnw
+msvc-cursos/mvnw.cmd
+msvc-usuarios/.mvn/
+msvc-usuarios/HELP.md
+msvc-usuarios/mvnw
+msvc-usuarios/mvnw.cmd
